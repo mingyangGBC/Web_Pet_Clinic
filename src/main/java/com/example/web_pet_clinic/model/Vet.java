@@ -1,4 +1,4 @@
 package com.example.web_pet_clinic.model;
 
-public class Vet {
+public class Vet extends Person{
 }
